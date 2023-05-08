@@ -1,10 +1,5 @@
 # Integration AppScan Onprem and Gitlab<br>
 
-This integration was based on previous work. Take a look into previous work to understand Requirements:<br>
-https://github.com/jrocia/Integration-AppScanSTD-and-Gitlab<br>
-https://github.com/jrocia/Integration-ASE-DAST-and-Gitlab PS: This new one works on Windows.<br> 
-https://github.com/jrocia/Integration-AppScanSRC-and-Gitlab<br>
-
 <br>
 <b><p align="center">Gitlab-CI.YML:<br></b>
 
